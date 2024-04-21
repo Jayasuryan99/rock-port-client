@@ -94,7 +94,7 @@ function Consignee(props) {
               </span>
               <input
                 type="text"
-                style={{ width: "25vw", borderColor: "black" }}
+                style={{ width: "20vw", borderColor: "black" }}
                 defaultValue={inputs?.lorryno}
                 className="outline-none pl-10 !bg-transparent border-b-2 uppercase"
               />
@@ -147,7 +147,7 @@ function Consignee(props) {
              <span className="">Consignor:</span>
               <input
                 type="text"
-                style={{ width: "38vw", borderColor: "black" }}
+                style={{ width: "54vw", borderColor: "black" }}
                 defaultValue={inputs.consignor}
                 className="outline-none pl-10 !bg-transparent border-b-2"
               />
@@ -156,7 +156,7 @@ function Consignee(props) {
              <span className="">GSTIN:</span>
               <input
                 type="text"
-                style={{ width: "36vw", borderColor: "black" }}
+                style={{ width: "20vw", borderColor: "black" }}
                 defaultValue={inputs.gctin2}
                 className="outline-none pl-10 !bg-transparent border-b-2"
               />
@@ -168,7 +168,7 @@ function Consignee(props) {
               <span className="">Consignee:</span>
               <input
                 type="text"
-                style={{ width: "38vw", borderColor: "black" }}
+                style={{ width: "54vw", borderColor: "black" }}
                 defaultValue={inputs.consignee}
                 className="outline-none pl-10 !bg-transparent border-b-2"
               />
@@ -177,7 +177,7 @@ function Consignee(props) {
               <span className="">GSTIN:</span>
               <input
                 type="text"
-                style={{ width: "36vw", borderColor: "black" }}
+                style={{ width: "20vw", borderColor: "black" }}
                 defaultValue={inputs.gctin2}
                 className="outline-none pl-10 !bg-transparent border-b-2"
               />
