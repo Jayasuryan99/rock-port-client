@@ -104,7 +104,7 @@ function VehicleBills() {
             </span>
             <input
               type="text"
-              style={{ width: "25vw", borderColor: "black" }}
+              style={{ width: "20vw", borderColor: "black" }}
               defaultValue={vehicleno}
               className="outline-none pl-10 !bg-transparent border-b-2"
             />
@@ -155,7 +155,7 @@ function VehicleBills() {
            <span className="">Consignor:</span>
             <input
               type="text"
-              style={{ width: "38vw", borderColor: "black" }}
+              style={{ width: "54vw", borderColor: "black" }}
               className="outline-none pl-10 !bg-transparent border-b-2"
             />
            </span>
@@ -163,7 +163,7 @@ function VehicleBills() {
            <span className="">GSTIN:</span>
             <input
               type="text"
-              style={{ width: "36vw", borderColor: "black" }}
+              style={{ width: "20vw", borderColor: "black" }}
               className="outline-none pl-10 !bg-transparent border-b-2"
             />
            </span>
@@ -174,7 +174,7 @@ function VehicleBills() {
             <span className="">Consignee:</span>
             <input
               type="text"
-              style={{ width: "38vw", borderColor: "black" }}
+              style={{ width: "54vw", borderColor: "black" }}
               className="outline-none pl-10 !bg-transparent border-b-2"
             />
             </span>
@@ -182,7 +182,7 @@ function VehicleBills() {
             <span className="">GSTIN:</span>
             <input
               type="text"
-              style={{ width: "36vw", borderColor: "black" }}
+              style={{ width: "20vw", borderColor: "black" }}
               className="outline-none pl-10 !bg-transparent border-b-2"
             />
             </span>
